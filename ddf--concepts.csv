@@ -1,0 +1,18 @@
+concept,concept_type,name
+sort_code,string,Country code (sorting)
+name,string,Name
+iso2,string,ISO country code (2 letters)
+country,string,ISO country code (3 letters)
+year,time,Year
+age_group,entity_domain,Age group
+mpop,measure,Population (M)
+fpop,measure,Population (F)
+mfpop,measure,Population (M+F)
+mlf,measure,Labour Force (M)
+flf,measure,Labour Force (F)
+mflf,measure,Labour Force (M+F)
+mlf0,measure,"Labour Force, constant LFPR of 2010 (M)"
+flf0,measure,"Labour Force, constant LFPR of 2010 (F)"
+mpr,measure,LF Participation Rate (M)
+fpr,measure,LF Participation Rate (F)
+mfpr,measure,LF Participation Rate (M+F)

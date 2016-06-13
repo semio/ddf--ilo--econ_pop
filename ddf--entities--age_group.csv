@@ -1,0 +1,17 @@
+age_group,name
+00_04,Aged 00-04
+05_09,Aged 05-09
+10_14,Aged 10-14
+15_19,Aged 15-19
+20_24,Aged 20-24
+25_29,Aged 25-29
+30_34,Aged 30-34
+35_39,Aged 35-39
+40_44,Aged 40-44
+45_49,Aged 45-49
+50_54,Aged 50-54
+55_59,Aged 55-59
+60_64,Aged 60-64
+65,Aged 65+
+total_0,Aged TOTAL (0+)
+total_15,Aged TOTAL 15+

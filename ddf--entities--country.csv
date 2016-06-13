@@ -1,0 +1,192 @@
+country,iso2,name,sort_code
+afg,AF,Afghanistan,300
+alb,AL,Albania,403
+dza,DZ,Algeria,13
+ago,AO,Angola,15
+arg,AR,Argentina,205
+arm,AM,Armenia,302
+aus,AU,Australia,505
+aut,AT,Austria,407
+aze,AZ,Azerbaijan,304
+bhs,BS,Bahamas,207
+bhr,BH,Bahrain,305
+bgd,BD,Bangladesh,307
+brb,BB,Barbados,209
+blr,BY,Belarus,408
+bel,BE,Belgium,409
+blz,BZ,Belize,211
+ben,BJ,Benin,17
+btn,BT,Bhutan,309
+bol,BO,Bolivia,215
+bih,BA,Bosnia and Herzegovina,410
+bwa,BW,Botswana,19
+bra,BR,Brazil,217
+brn,BN,Brunei Darussalam,311
+bgr,BG,Bulgaria,411
+bfa,BF,Burkina Faso,20
+bdi,BI,Burundi,21
+khm,KH,Cambodia,313
+cmr,CM,Cameroon,23
+can,CA,Canada,219
+cpv,CV,Cape Verde,25
+caf,CF,Central African Republic,27
+tcd,TD,Chad,111
+je_gg,JE+GG,Channel Islands,604
+chl,CL,Chile,229
+chn,CN,China,315
+col,CO,Colombia,223
+com,KM,Comoros,29
+cog,CG,Congo,31
+cod,CD,"Congo, Democratic Republic of",32
+cri,CR,Costa Rica,225
+hrv,HR,Croatia,412
+cub,CU,Cuba,227
+cyp,CY,Cyprus,317
+cze,CZ,Czech Republic,413
+civ,CI,Côte d'Ivoire,33
+dnk,DK,Denmark,415
+dji,DJ,Djibouti,35
+dom,DO,Dominican Republic,233
+tls,TL,East Timor,378
+ecu,EC,Ecuador,235
+egy,EG,Egypt,37
+slv,SV,El Salvador,237
+gnq,GQ,Equatorial Guinea,48
+eri,ER,Eritrea,40
+est,EE,Estonia,418
+eth,ET,Ethiopia,41
+fji,FJ,Fiji,509
+fin,FI,Finland,421
+fra,FR,France,423
+guf,GF,French Guiana,251
+pyf,PF,French Polynesia,533
+gab,GA,Gabon,43
+gmb,GM,Gambia,45
+geo,GE,Georgia,319
+deu,DE,Germany,424
+gha,GH,Ghana,47
+grc,GR,Greece,431
+glp,GP,Guadeloupe,245
+gum,GU,Guam,511
+gtm,GT,Guatemala,247
+gin,GN,Guinea,49
+gnb,GW,Guinea-Bissau,51
+guy,GY,Guyana,249
+hti,HT,Haiti,253
+hnd,HN,Honduras,255
+hkg,HK,"Hong Kong, China",320
+hun,HU,Hungary,433
+isl,IS,Iceland,435
+ind,IN,India,321
+idn,ID,Indonesia,323
+irn,IR,"Iran, Islamic Republic of",325
+irq,IQ,Iraq,327
+irl,IE,Ireland,437
+isr,IL,Israel,329
+ita,IT,Italy,441
+jam,JM,Jamaica,257
+jpn,JP,Japan,331
+jor,JO,Jordan,333
+kaz,KZ,Kazakhstan,335
+ken,KE,Kenya,55
+prk,KP,"Korea, Democratic People's Republic of",339
+kor,KR,"Korea, Republic of",337
+kwt,KW,Kuwait,341
+kgz,KG,Kyrgyzstan,342
+lao,LA,Lao People's Democratic Republic,343
+lva,LV,Latvia,442
+lbn,LB,Lebanon,345
+lso,LS,Lesotho,57
+lbr,LR,Liberia,59
+lby,LY,Libyan Arab Jamahiriya,61
+ltu,LT,Lithuania,444
+lux,LU,Luxembourg,445
+mac,MO,"Macau, China",346
+mdg,MG,Madagascar,63
+mwi,MW,Malawi,65
+mys,MY,Malaysia,347
+mdv,MV,Maldives,351
+mli,ML,Mali,67
+mlt,MT,Malta,447
+mtq,MQ,Martinique,259
+mrt,MR,Mauritania,71
+mus,MU,Mauritius,73
+mex,MX,Mexico,261
+mng,MN,Mongolia,353
+mar,MA,Morocco,69
+moz,MZ,Mozambique,75
+mmr,MM,Myanmar,354
+nam,,Namibia,77
+npl,NP,Nepal,355
+nld,NL,Netherlands,451
+ant,AN,Netherlands Antilles,265
+ncl,NC,New Caledonia,526
+nzl,NZ,New Zealand,519
+nic,NI,Nicaragua,267
+ner,NE,Niger,79
+nga,NG,Nigeria,81
+nor,NO,Norway,453
+omn,OM,Oman,357
+pak,PK,Pakistan,359
+pan,PA,Panama,269
+png,PG,Papua New Guinea,529
+pry,PY,Paraguay,273
+per,PE,Peru,275
+phl,PH,Philippines,361
+pol,PL,Poland,455
+prt,PT,Portugal,457
+pri,PR,Puerto Rico,277
+qat,QA,Qatar,363
+mda,MD,Republic of Moldova,448
+rou,RO,Romania,459
+rus,RU,Russian Federation,460
+rwa,RW,Rwanda,87
+reu,RE,Réunion,83
+lca,LC,Saint Lucia,281
+vct,VC,Saint Vincent and the Grenadines,285
+wsm,WS,Samoa,535
+stp,ST,Sao Tome and Principe,89
+sau,SA,Saudi Arabia,367
+sen,SN,Senegal,91
+srb,RS,Serbia and Montenegro,477
+sle,SL,Sierra Leone,95
+sgp,SG,Singapore,371
+svk,SK,Slovakia,462
+svn,SI,Slovenia,463
+slb,SB,Solomon Islands,537
+som,SO,Somalia,97
+zaf,ZA,South Africa,99
+esp,ES,Spain,417
+lka,LK,Sri Lanka,373
+sdn,SD,Sudan,103
+sur,SR,Suriname,287
+swz,SZ,Swaziland,105
+swe,SE,Sweden,465
+che,CH,Switzerland,464
+syr,SY,Syrian Arab Republic,375
+tjk,TJ,Tajikistan,376
+tza,TZ,"Tanzania, United Republic of",107
+tha,TH,Thailand,377
+mkd,MK,The former Yugoslav Republic of Macedonia,446
+tgo,TG,Togo,113
+ton,TO,Tonga,539
+tto,TT,Trinidad and Tobago,289
+tun,TN,Tunisia,115
+tur,TR,Turkey,467
+tkm,TM,Turkmenistan,379
+uga,UG,Uganda,117
+ukr,UA,Ukraine,468
+are,AE,United Arab Emirates,381
+gbr,GB,United Kingdom,469
+usa,US,United States,291
+vir,VI,United States Virgin Islands,299
+ury,UY,Uruguay,293
+uzb,UZ,Uzbekistan,382
+vut,VU,Vanuatu,545
+ven,VE,Venezuela,295
+vnm,VN,Viet Nam,383
+pse,PS,West Bank and Gaza Strip,318
+esh,EH,Western Sahara,608
+yem,YE,Yemen,384
+zmb,ZM,Zambia,121
+zwe,ZW,Zimbabwe,123

@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------------------------------------------
+variable name                    Variable label
+-------------------------------------------------------------------------------------------------------------------
+sort_code                        Country code (sorting)
+country                          Country
+iso2                             ISO country code (2 letters)
+iso3                             ISO country code (3 letters)
+year                             Year
+age_group                        Age group
+MPOP                             Population (M)
+FPOP                             Population (F)
+MFPOP                            Population (M+F)
+MLF                              Labour Force (M)
+FLF                              Labour Force (F)
+MFLF                             Labour Force (M+F)
+MLF0                             Labour Force, constant LFPR of 2010 (M)
+FLF0                             Labour Force, constant LFPR of 2010 (F)
+MPR                              LF Participation Rate (M)
+FPR                              LF Participation Rate (F)
+MFPR                             LF Participation Rate (M+F)
+realm                            Available data point for Male LFPR (=0 if no data available)
+realf           	         Available data point for Female LFPR (=0 if no data available)
+Repository                       Source of original data
+Type_Source                      Type of Source
+meta_AGEharmon  byte             Metadata: Age group harmonisation (=1 if adjusted)
+meta_URBANharmon                 Metadata: data source used for adjusting urban data
+meta_AGEsplitharmon              Metadata on split-age adjustment
+meta_Mimputation                 Metadata: Imputation method used (M)
+meta_Fimputation                 Metadata: Imputation method used (F)
+meta_Model2_proxy_reference      Metadata:  Age distribution proxy used for smoothing the estimates
+meta_Model2_FixedE_reference     Metadata: Donor country for the fixed effect parameter
+M1pr                             Projections of Male LFPR (Model 1: Pannel)
+M2pr                             Projections of Male LFPR (Model 2: Pre-crisis level)
+M3pr                             Projections of Male LFPR (Model 3: Trend with narrow range)
+M4pr                             Projections of Male LFPR (Model 4: Trend with wide range)
+M5pr                             Projections of Male LFPR (Model 5: Trend derived from a larger age group)
+M6pr                             Projections of Male LFPR (Model 6: Trend + Cycle)
+F1pr                             Projections of Female LFPR (Model 1: Pannel)
+F2pr                             Projections of Female LFPR (Model 2: Pre-crisis level)
+F3pr                             Projections of Female LFPR (Model 3: Trend with narrow range)
+F4pr                             Projections of Female LFPR (Model 4: Trend with wide range)
+F5pr                             Projections of Female LFPR (Model 5: Trend derived from a larger age group)
+F6pr                             Projections of Female LFPR (Model 6: Trend + Cycle)
